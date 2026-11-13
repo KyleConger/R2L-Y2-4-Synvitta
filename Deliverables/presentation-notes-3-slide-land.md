@@ -9,16 +9,15 @@
 
 ---
 
-## NIH “here’s who” seed (gap + best proxy)
+## Ecosystem note (secondary only — not primary “who”)
 
 | | |
 |---|---|
-| **Repo** | No NIH document on file that names Synvitta prospects or a ready “who” list |
-| **Best public proxy (RETRIEVED)** | NIH/SBIR award **1R43HD116666-01A1** · solicitation **PA-24-245** (PHS 2024-2 Omnibus SBIR) · NICHD topic · **award year 2025** · awardee **Burst Diagnostics Inc.** — multiplex hormone assay (E2, PG, LH, FSH) for research/dev platform work · [sbir.gov/awards/219388](https://www.sbir.gov/awards/219388) |
-| **What it proves** | NIH funds **diagnostic developers** building multiplex hormone assays → Route B beachhead class is real (ecosystem signal) |
-| **What it does *not* prove** | Synvitta relationship · Thermo/Agilent/Pancher as NIH picks · clinical/DTC path for Synvitta |
-| **Optional secondary (RETRIEVED)** | **RFA-HD-22-010** (posted **2021-03-31**) — NICHD SBIR on reproductive-health assay tech (incl. salivary / POC reproductive hormones) — ecosystem FOA, not a prospect list |
-| **Slide use** | Cite Burst award as *class proof* (“NIH is funding this developer type”) + team outreach list below — do **not** invent Synvitta↔Burst or Synvitta↔TF links |
+| **Primary “here’s who”** | **Thermo Fisher Scientific** + **Abbott** (team lock 2026-11-13) — see table below |
+| **Secondary proxy (RETRIEVED)** | NIH/SBIR **1R43HD116666-01A1** / **PA-24-245** · **Burst Diagnostics Inc.** (2025) — multiplex hormone assay class proof · [sbir.gov/awards/219388](https://www.sbir.gov/awards/219388) |
+| **What Burst proves** | NIH funds Dx developers building multiplex hormone assays → Route B *class* is real |
+| **What it does *not* prove** | Synvitta relationship · Thermo/Abbott as NIH picks · clinical/DTC path |
+| **Slide use** | Lead with Thermo + Abbott; Burst = optional footnote / ecosystem only |
 
 ---
 
@@ -42,16 +41,27 @@
 | **Positioning** | Premium next-gen tech for hormone testing · RUO / co-dev only | **ESTIMATED** messaging |
 | **Regulatory assumption to verify** | Eval stays research/dev; no clinical marketing, patient-use, DTC, or Synvitta clinical-validation assist | **RETRIEVED** C-A1, C-A4, F-RUO-5 |
 
-### Here’s who (candidates)
+### Here’s who (primary lock)
 
-| Who | Role on slide | Confidence | Tag / note |
-|---|---|---|---|
-| **Burst Diagnostics** (NIH SBIR awardee) | Class example — Dx developer building multiplex hormone assays | High as *class* | **RETRIEVED** award 2025 · **not** a Synvitta relationship |
-| **TF → Thermo Fisher** | Outreach target + incumbent peer for proof ask | **High** | Interpreted · target only |
-| **Agilant → Agilent** | Outreach target — platform / assay-dev partner talk | **High** | Spelling fix · target only |
-| **Pancher** | Keep label until confirmed (candidates: PerkinElmer/Revvity · or Hologic Panther) | **Low** | Confirm before Prompt 5 |
+**Team words:** Thermo Fisher (UF relationships · Alachua biotech · buyout experience here) + Abbott (UF Innovate partnership).  
+**Full brief:** `Deliverables/uf-innovate-thermo-abbott-rationale.md`
 
-**Do not invent:** warm intros · existing commercial relationships · “NIH says call Thermo.”
+**Speakable bullets (Slide 1):**
+
+1. **Who:** Thermo Fisher + Abbott — Route B eval → paid SOW  
+2. **Why Thermo (RETRIEVED):** Florida Biologix → Brammer → Thermo **$1.7B** early **2019** (~600 emp. MA+FL; Pharma Services) — UF Explore CoE  
+3. **Why Abbott (RETRIEVED):** Abbott licensed **Banyan** (UF / Sid Martin) TBI biomarkers for Army + Abbott Point of Care i-STAT — UF Innovate  
+4. **Logic (ESTIMATED):** Same UF Innovate corridor → Synvitta warm-path access — verify intros  
+5. **Ask / not:** Research eval/co-dev under RUO · **not** M&A · **not** clinical TBI/DTC · Thermo also ProcartaPlex peer
+
+| Who | Role on slide | Tag / note |
+|---|---|---|
+| **Thermo Fisher Scientific** | Primary outreach · **also** ProcartaPlex peer incumbent — pitch eval/OEM/co-dev, **not** buyout | **RETRIEVED:** Alachua path Florida Biologix → Brammer → Thermo $1.7B early 2019 / ~600 emp. / Pharma Services (UF Explore CoE 2019-11-26). **RETRIEVED:** ProcartaPlex hormone panels. **ESTIMATED:** Synvitta warm UF/Thermo intro — verify Synvitta/UF. Buyout = **access rationale**, not the ask |
+| **Abbott** | Primary outreach — eval → paid SOW | **RETRIEVED:** Abbott–Banyan (UF / Sid Martin graduate) TBI biomarker license for Army + Abbott Point of Care i-STAT (UF Innovate tba-blood-test). **ESTIMATED:** Synvitta door via same corridor — verify Synvitta/UF |
+| **Burst Diagnostics** (optional) | Secondary ecosystem footnote only | **RETRIEVED** NIH SBIR 2025 · not a Synvitta relationship |
+| ~~Agilent / Pancher~~ | **Demoted** — not primary | Appendix / beaches not taken |
+
+**Do not invent:** proven Synvitta↔Thermo or Synvitta↔Abbott commercial relationships · M&A as the 90-day recommendation · “NIH says call Thermo.”
 
 ### Deliverable-check fields to place on Slide 1 (or flag for S2/S3)
 
@@ -90,15 +100,16 @@
 | Have | Gap |
 |---|---|
 | Case three options + entry models (**RETRIEVED**) | Precision/speed vs peers = **ESTIMATED / untested** — analysis rows open |
-| Peer class exists (Thermo / CADI / Quansys-class) from prior desk | No public named U.S. org evidenced to pay **Synvitta** over incumbents |
-| NIH SBIR hormone multiplex developer award (**RETRIEVED** 2025) | No Synvitta↔NIH-awardee relationship |
-| Cannot-claim register dated | Pancher org unconfirmed |
+| Peer class exists (Thermo ProcartaPlex / CADI / Quansys-class) from prior desk | No public named U.S. org evidenced to pay **Synvitta** over incumbents |
+| Thermo Alachua buyout path + Abbott–Banyan UF Innovate ecosystem (**RETRIEVED**) | Synvitta warm intros = **ESTIMATED** — verify |
+| NIH SBIR hormone multiplex developer award (**RETRIEVED** 2025) | Burst = secondary ecosystem only |
 
 ### What not to claim (Q&A / unwilling list)
 
 - Peer-beating cost or clinical accuracy (Unsupported / no H2H)  
 - Precision/speed already confirmed  
-- Existing relationships with TF / Agilent / Pancher / Burst  
+- Proven Synvitta commercial relationships with Thermo / Abbott / Burst  
+- Recommendation = Thermo (or Abbott) **buyout / M&A** — buyout history is access rationale only  
 - Clinical / DTC / patient-diagnosis use near-term (**RETRIEVED** C-A1, F-RUO-5)  
 - National hormone TAM or multi-year forecast  
 - ADLM 2027 as a 90-day proof of success  
@@ -107,19 +118,40 @@
 
 ## Slide 3 — Timeline (90 days)
 
-**Working title:** Three moves — conversations → scoped eval → paid SOW (or kill).
+**Working title (preferred):** Plan → Attack → Partner — ready assets → eval in principle → paid SOW (or kill).  
+**Alternate title (week view):** Three moves — conversations → scoped eval → paid SOW (or kill).
 
-### Three actions
+### Preferred timeline shape — Plan · Attack · Partner (30 / 60 / 90)
+
+**ESTIMATED** phase labels · maps to Route B actions in `path-3-route-B-90-day-plan.md` · **RETRIEVED** locks: Thermo + Abbott · eval→paid SOW · metrics/kills · RUO only · no FDA filing strategy.
+
+**Paste-ready slide table:**
+
+| | **Plan · Days 1–30** | **Attack · Days 31–60** | **Partner · Days 61–90** |
+|---|---|---|---|
+| **Objective** | Outreach-ready: claim-safe pack, UF Innovate warm paths, named Thermo/Abbott roles, **draft** eval sheet | Win the room: qualified talks + densify intros → **eval accepted in principle** | Convert: run/close scoped eval → **table paid SOW/discovery** → convert **or** kill |
+| **Actions** | Claim-safe messaging (RUO/co-dev) · UF Innovate warm-path asks · name assay/OEM BD roles · draft eval + proof ask + conversion clause | Outreach to Thermo + Abbott · ≥3 qualified conversations · densify 1–2 referrals · lock written eval acceptance · Thermo = gap/OEM eval **not** M&A | Start/finish research eval · weekly claim-language check · table **paid** SOW or discovery · written kill if no paid motion |
+| **Exit** | Roles named · warm paths requested · eval draft ready | Both prospects attempted · ≥1 eval in principle by day 60 | Paid motion **or** written beachhead kill by day 90 |
+| **Metric** | Early warn: Week 4 <2 talks booked | **M1** ≥3 talks by d45 · both attempted by d60 · **M2** eval in principle by d60 | **M2** paid SOW/discovery by day 90 (binary) |
+| **Kill risk** | No warm path **and** no named-role path · RA blocks research-eval language | Clinical/DTC-only · Thermo M&A-only · refuse written criteria | Eval never converts · free pilot forever · clinical/DTC drift (F-RUO-5) |
+
+**Thermo peer (one line for slide/Q&A):** Thermo is also ProcartaPlex incumbent — Attack asks scoped gap/OEM/co-dev eval, not replace ProcartaPlex or buyout.
+
+**MECE note for builders:** Plan = prepare · Attack = win acceptance · Partner = convert/kill — do not start cold outreach as the Partner story, or leave the eval sheet undrafted into Attack.
+
+### Alternate — three actions (week-level)
 
 | # | Window | Action | Output |
 |---|---|---|---|
-| 1 | Wk 1–4 | Qualified conversations with assay program / partnership / R&D leads at Thermo · Agilent · Pancher-as-confirmed (+ 1–2 densifying referrals) | Call log: org · role · incumbent · eval interest · claim-language flags |
+| 1 | Wk 1–4 | Qualified conversations with assay program / partnership / R&D / OEM BD leads at **Thermo Fisher** · **Abbott** (+ 1–2 densifying referrals) | Call log: org · role · incumbent · eval interest · claim-language flags · (Thermo) peer-vs-partner posture |
 | 2 | Wk 3–7 | One research-eval sheet + **proof ask** (markers · specificity/TAT proxies · pass/fail · RUO language · **conversion clause**) | ≥1 eval accepted in principle |
 | 3 | Wk 6–13 / day 90 | Table **paid custom SOW** or paid discovery — no free pilot forever | Paid motion **or** written beachhead kill |
 
+*Map:* Plan ≈ Action 2 draft + Action 1 prep · Attack ≈ Action 1 execute + Action 2 acceptance · Partner ≈ Action 3 conversion.
+
 ### Metrics (2)
 
-1. ≥3 qualified conversations by day 45 · all three named prospects attempted by day 60  
+1. ≥3 qualified conversations by day 45 · **both** Thermo and Abbott attempted by day 60  
 2. ≥1 eval accepted in principle by day 60 · **paid** SOW/discovery by day 90 (binary)
 
 ### Major risk (1)
@@ -141,10 +173,11 @@ Do **not** put “ADLM Chicago live presentation” as the timeline climax. If m
 
 ## Open questions
 
-- [ ] Confirm **Pancher** exact org before Prompt 5 outreach  
+- [ ] Verify with Synvitta/UF: warm path into Thermo (UF/Alachua) and Abbott (vs Banyan-ecosystem proxy only)  
 - [ ] Ask Synvitta for any internal performance proxies before outbound proof language  
 - [ ] Does precision/speed survive analysis (B2) or does rival agility win?  
-- [ ] Named roles at Thermo / Agilent / Pancher (assay program / partnership / R&D) — not random BD inboxes  
+- [ ] Named roles at Thermo / Abbott (assay program / partnership / R&D / OEM BD) — not random BD inboxes  
+- [ ] Deck only if explicitly asked · skeptical-client challenge next
 
 ---
 

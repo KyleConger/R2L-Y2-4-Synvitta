@@ -4,8 +4,8 @@
 **As of:** 2026-11-13  
 **Opportunity (named):** SynArray™ custom panels · team thesis = diagnostic **precision and speed** (**ESTIMATED** / **Plausible but untested** vs peers — analysis rows not yet run to confirms/kills)  
 **Locked (route B):** beachhead = **diagnostic developers** · entry mode = **research eval → paid custom SOW** · customer/partner type = diagnostic developers  
-**Prospects (interpreted 2026-11-13):** TF = Thermo Fisher (high) · Agilant = Agilent (high) · Pancher = ambiguous (confirm)  
-**Not locked:** Pancher exact org · analysis confirms/kills · final slides  
+**Prospects (locked 2026-11-13):** **Thermo Fisher Scientific** + **Abbott** (team focus) · Agilent / Pancher demoted  
+**Not locked:** analysis confirms/kills · named roles / warm-path verify · final slides (only if asked)
 
 
 **Hard outs:** no FDA filing strategy · no financial forecast · no national TAM · no clinical marketing without authorization · not “spray every disease.”  
@@ -190,7 +190,7 @@
 ## What remains undecided
 
 - Whether primary precision/speed claim **survives** analysis (B2) or rival agility wins (B2-rival)  
-- **Pancher** exact org confirmation for Prompt 5  
+- Named roles / warm-path verify at Thermo + Abbott (Synvitta/UF)  
 - Outreach copy that keeps eval under RUO/research boundaries (B4) · regulatory assumption **named to verify**, not yet verified  
 - Final 3–5 slides + rehearsal  
 
