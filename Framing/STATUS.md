@@ -20,6 +20,7 @@
 | Positioning | **ESTIMATED messaging thesis (2026-11-13):** Synvitta → premium next-gen tech for hormone testing (align precision/speed; RUO/co-dev only) |
 | 90-day plan | **Plan = drafted · prospects refreshed (2026-11-13)** — `Deliverables/path-3-route-B-90-day-plan.md` (Thermo + Abbott) |
 | Presentation | **Notes drafted · prospects refreshed (2026-11-13)** — `Deliverables/presentation-notes-3-slide-land.md` · **not** slides · no deck unless asked |
+| Appendix content | **Drafted (2026-11-13)** — `Deliverables/appendix-slide-content.md` (Opp1/2 kills · beaches not taken · Thermo/Abbott UF Innovate cites · reg/unwilling · metrics/Q&A · PS+checklist backup) · not main 3 |
 
 **Team lock (their words):** “We’re going route B” = Idea B (Assay-Developer Eval→SOW); opportunity remains SynArray custom (path 3).  
 **Prior opportunity lock:** “Synvitta is advancing diagnostic precision and speed so yes.”  

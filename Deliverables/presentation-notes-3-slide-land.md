@@ -4,6 +4,7 @@
 **Not:** polished deck · canvas · speaker script  
 **Locks used:** PS locked · Opp3 + Idea B / Route B · 90-day plan drafted · claim **untested**  
 **Hard outs:** no FDA filing strategy · no financial forecast · no national TAM  
+**Appendix (not main 3):** speaker/slide bullets live in `Deliverables/appendix-slide-content.md`
 
 **Sources:** `Framing/problem-statement.md` · `path-3-route-B-90-day-plan.md` · `path-3-recommendation-ideas.md` · `Framing/STATUS.md` · `Research/STATUS.md` · `PrimarySources/regulatory/dated-regulatory-facts.md` · critique of team draft (Opp1/2 kills fixed · no DTC · ADLM Chicago 2027)
 

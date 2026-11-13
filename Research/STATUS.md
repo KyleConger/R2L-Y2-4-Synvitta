@@ -19,6 +19,7 @@
 | Customer / partner / prospects | **Type locked:** diagnostic developers · **Prospects locked (2026-11-13):** **Thermo Fisher Scientific** + **Abbott** · Agilent / Pancher **demoted** from primary · ask = **eval→paid SOW** (not M&A) · relationship claims tagged below |
 | 90-day plan | **Plan = drafted / prospects refreshed (2026-11-13)** — `Deliverables/path-3-route-B-90-day-plan.md` (Thermo + Abbott · 3 actions · conversations · scoped eval · conversion kill · 2 metrics · 1 risk) |
 | Presentation notes | **Drafted / prospects refreshed (2026-11-13)** — `Deliverables/presentation-notes-3-slide-land.md` (not slides) · primary who = Thermo + Abbott · NIH Burst proxy = **secondary ecosystem note only** (**RETRIEVED** SBIR 1R43HD116666-01A1) |
+| Appendix content | **Drafted (2026-11-13)** — `Deliverables/appendix-slide-content.md` · A/C/D + Agilent/Pancher as beaches not taken · Thermo ProcartaPlex peer Q&A · reg unwilling list |
 | Long-list | Primary = Thermo + Abbott · Agilent / Pancher appendix / beaches not taken · named roles still open |
 | Assumption register | Engagement facts + unknowns — update as analysis runs |
 
