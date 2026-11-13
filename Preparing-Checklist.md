@@ -1,47 +1,90 @@
-# Preparing checklist (stop before plan)
+# Preparing checklist + decision ladder
 
-Use this to make plan/solve cheap later. Check items off in order. Do **not** choose the one
-opportunity, the one customer, the how, or the 90-day plan here.
+**Current stage: prepare.** Until the team announces a lock, frame / issue / PS / root cause /
+claim / opportunity / customer / how / 90-day remain **undecided**.
 
-## 0. Contract locked
+When a decision is announced, the agent follows `.cursor/rules/decision-routing.mdc`:
+confirm → update STATUS → **next steps only** → list what is still open.
 
-- [ ] Team agrees: market entry, RUO only, thyroid + syphilis only
-- [ ] Team agrees outs: no FDA strategy, no financial forecast, no national sizing
-- [ ] Draft problem in `Synvitta-Case-Background.md` challenged at least once
+**Live session (~4h):** use `Session-Runbook.md`. Say **“keep us on track”** anytime
+(`.cursor/rules/session-track.mdc`).
 
-## 1. Fact base
+## 0. Contract
 
-- [ ] Synvitta company one-pager sources landed in `PrimarySources/company/`
-- [ ] Thyroid and syphilis product/assay sources in `PrimarySources/assays/`
-- [ ] `PrimarySources/CORE-INFORMATION.md` updated; every line tagged RETRIEVED or ESTIMATED
-- [ ] `PrimarySources/AI-INDEX.md` lists what to read first
-- [ ] Open unknowns listed (not papered over)
+- [ ] Case choice set (three opportunities) agreed — or later narrow stated
+- [ ] Outs: no FDA filing strategy, no financial forecast, no national sizing
 
-## 2. Define / disaggregate (framestorm)
+## 1. Fact base (frame-agnostic)
 
-- [ ] At least two conflicting root frames in `Framing/` (use Synvitta rooms)
-- [ ] Each frame lists: assumptions · what we would measure · cheap falsification test
-- [ ] Perspectives classified by role (root / rival / constraint / sub-branch / decision architecture)
-- [ ] One promotion and one demotion forced after first draft
-- [ ] Next client question written (one question)
+- [x] Sources in `PrimarySources/`; CORE-INFORMATION tagged (incl. Handout A H1–H8)
+- [x] Handout A p.1 + p.3 filed (`PrimarySources/handouts/`) — **p.2 still missing**
+- [x] Dated regulatory / cannot-claim register (`PrimarySources/regulatory/`) — separate from Handout A
+- [ ] Open unknowns listed / refreshed
 
-## 3. Evidence for later picking (not the pick)
+## 2. Framestorm → Decision A: frame / problem chosen
 
-- [ ] Customer / account long-list started in `Research/` as **evidence**, not a recommendation
-- [ ] For each serious candidate: buyer role, why RUO fits, access path hypothesis, kill risk
-- [ ] Incumbent / alternative kits noted at account level where known
-- [ ] `Research/assumption-register.csv` has line IDs; leverage column filled for estimates
-- [ ] Interview or outreach question list drafted (optional but useful)
+- [ ] Starters with 1 support + 1 challenge; MECE pressure-test
+- [ ] Handout A: sketch cuts A/B/C; first-pass three opportunities **by 1:00**; define criteria (`Framing/issue-tree-cuts-handout-a.md`)
+- [ ] **Announce:** which problem we are on → next = problem statement
 
-## 4. Prepare gate — required before plan/solve
+## 2b. Decision B: problem statement locked
 
-All must be true:
+- [ ] Five tests + **90-day move?** + **value of being right**
+- [ ] **Next:** MECE issue tree + prioritize (not recommendation yet)
 
-1. CORE-INFORMATION has enough product and buyer fact to argue without inventing SKUs
-2. Framing set survives the playbook failure tests
-3. Research folder can support a forced choice among real candidates
-4. No FDA, forecast, or national TAM work product exists in the live folders
-5. Team is ready to ask for **plan/solve** explicitly
+## 3. Decision C: priorities locked → research
 
-When the gate passes, prompt the agent with a clear work order: pick one opportunity and one
-customer, show how, and build the 90-day plan — citing Framing + Research + PrimarySources.
+- [ ] Cut rule + MECE; research on prioritized branches
+- [ ] Answers vetted toward **where the problem is**
+
+## 3b. Decision D: root cause (BEFORE recommendations)
+
+- [ ] Team can state: **“This is the root cause of the problem.”**
+- [ ] **Next:** claim / hypothesis — `Framing/hypothesis-template.md` + `.cursor/rules/hypothesis-claim.mdc`
+
+### Claim requirements
+
+1. Claim with a **because that can fail**
+2. Evidence that puts it first
+3. Decision change — what Synvitta does differently
+4. Kill condition — what proves it wrong
+
+Template: *We believe [customer or partner type] would [buy/evaluate/co-develop] within 90 days because ___. We would be wrong if ___.*
+
+- [ ] **~4-hour** testable kill (e.g. no named U.S. buyers of comparable products)
+- [ ] **90-day** testable kill
+- [ ] **Rival hypothesis** on the same branch; test both
+
+## 3c. Decision D2: test the claim with analysis (before recommendations)
+
+- [ ] Each hypothesis tied to issue-tree **branch(es)**
+- [ ] Work plan in `Research/analysis-workplan-template.md` (→ `analysis-workplan.md`)
+- [ ] Comparison chosen — prefer **against peers** / **across segments** (few numbers)
+- [ ] Data ladder: in hand → public named dated → ask → proxy **with limits**
+- [ ] Rows have: hypothesis · analysis · data needed · source/gap · confirms if · kills if · owner/next step
+- [ ] Each row also: metric/segment/period · named+dated (or gap) · observable result · name + deadline
+- [ ] Update claim: survived / killed / needs revise
+
+## 4. Decision E: claim survived analysis → recommendations only if asked
+
+- [ ] Explicit plan/solve: one opportunity + customer/partner + how + 90-day
+- [ ] Kill criteria from the claim + analysis carry into the recommendation
+
+| Announce… | Next |
+|---|---|
+| Opportunity chosen | Customer/partner + route + regulatory assumption to verify |
+| Customer + route | 90-day plan + metrics + risk |
+| Rec drafted | `Deliverables/deliverable-check.md` · Prompt 6 · rehearse |
+
+## Gate board
+
+| Gate | Status |
+|---|---|
+| Frame/issue chosen | **Not yet** |
+| Problem statement locked | **Not yet** |
+| Issue tree / priorities locked | **Not yet** |
+| Root cause stated | **Not yet** |
+| Claim + rival (4-hour + 90-day kills) | **Not yet** |
+| Analysis work plan run (branch-tied) | **Not yet** |
+| Prepare→plan opened | **Not yet** |
+| Opportunity / customer / 90-day | **Not yet** |

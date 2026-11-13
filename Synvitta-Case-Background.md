@@ -1,67 +1,52 @@
-# Synvitta — market entry case (baseline)
+# Synvitta — U.S. market entry (baseline)
 
-**Status:** prepare-ready baseline. Facts below are engagement constraints from the team brief, not a
-solved recommendation. Fill `PrimarySources/` before treating any company claim as settled.
+**Status:** prepare only. **No frame, issue, problem statement, opportunity, or customer has been decided.**  
+Sources under `PrimarySources/`. Framing = open questions and drills for a later decision.
 
-## Engagement
+## Engagement (from case)
 
-| Item | Working contract |
+| Item | Contract |
 |---|---|
-| Client | Synvitta |
-| Case type | Market entry |
-| Use case | **Research use only (RUO)** |
-| Assays in scope | **Thyroid** and **syphilis** only |
-| End deliverable | **One opportunity**, **one customer**, **how they do it**, **90-day plan** |
-| Stage now | **Prepare** (define / disaggregate / gather facts) — do not plan until asked |
+| Client | Synvitta Diagnostics (UF Innovate \| Sid Martin Biotech, Alachua, FL) |
+| Context | Kits, instruments, software; early commercial focus Brazil; now U.S. |
+| Constraint | Limited resources; **no** FDA authorization for clinical diagnostic marketing in the U.S. |
+| Choice set | SynELISA RUO kits **or** SynArray newborn-screening partnerships **or** SynArray custom panels |
+| Deliverable | ONE opportunity + customer/partner + route + 90-day plan (slides) |
+| Outs | No FDA filing strategy, detailed financial forecast, or nationwide market sizing |
+| Stage now | **Prepare** — gather facts and framestorm starters; **undecided** on frame/issue/PS/opportunity |
 
-## In scope
+## Case guiding questions (verbatim intent)
 
-- Who buys and uses RUO thyroid and syphilis assays (labs, PIs, cores, public-health research, etc.)
-- What "good" looks like for a first account (fit, access, proof, switching)
-- Competitive / incumbent kits as barriers at the account level
-- Distributor vs direct access as an entry mechanic
-- Evidence that supports picking **one** opportunity and **one** customer later
+1. Where focus first? (three options; criteria: business potential, readiness, barriers, speed to first revenue)
+2. What is a credible route to market? (customer/partner type + model; what cannot be assumed without FDA authorization)
+3. What in the next 90 days? (three actions; 2–3 prospects; two metrics)
 
-## Out of scope (do not develop)
+## Case “questions to explore”
 
-- FDA / clinical / diagnostic clearance strategy
-- Multi-year financial forecasts or fundraising models
-- National TAM / SAM / SOM or category market sizing
-- Products outside thyroid and syphilis RUO
-- Multi-segment "launch everywhere" GTM
+- Where can Synvitta legitimately offer RUO today, and how reach research buyers?
+- Could CLIA-lab or diagnostic-developer collaborations help? What must be checked first?
+- Is custom multiplex faster/more attractive initially than standard kit sales?
 
-## Working problem statement (draft — challenge in framestorm)
+## Problem statement (later — not yet)
 
-> Synvitta needs a credible first foothold selling RUO thyroid and/or syphilis assays. The team must
-> name one opportunity and one customer, show a practical entry path, and sequence the first 90 days —
-> without relying on regulatory filings, financial forecasts, or a national market-size story.
+**Do not write or lock a problem statement until the team decides which problem they are on.**
 
-Reframe this in `Framing/`; do not treat this wording as locked.
+When that stage opens, use `Framing/problem-statement-template.md` and this shape:
 
-## Unknowns to resolve in prepare (not answers)
+> What should **[decision maker]** do to **[measurable result]** by **[time]**, given **[constraint]**, without **[boundary]**?
 
-1. What exactly does Synvitta sell today for thyroid and syphilis (SKU, format, claims language)?
-2. What proof package exists (performance data, IFU/RUO labeling, references)?
-3. Which buyer roles matter (PI, lab director, purchasing, distributor)?
-4. What does a "win" look like in 90 days (meeting, eval, PO, repeat)?
-5. What would falsify a given opportunity or customer?
+Five tests: (1) call to action · (2) Synvitta’s leadership · (3) success and time · (4) boundaries · (5) **no product or cause in the question**.
 
-Drop retrieved answers into `PrimarySources/CORE-INFORMATION.md` with sources.
+**PS goals:** the statement must let the team ask (a) **Can Synvitta move it in 90 days?** and
+(b) **How big?** = **the value of being right** (not national market sizing).  
+Enforced in `.cursor/rules/problem-statement.mdc`.
 
 ## Where work lives
 
 | Need | Location |
 |---|---|
-| Fast orientation | This file |
-| Facts only | `PrimarySources/CORE-INFORMATION.md` |
-| Source map | `PrimarySources/AI-INDEX.md` |
-| Prepare checklist | `Preparing-Checklist.md` |
+| Facts | `PrimarySources/CORE-INFORMATION.md` |
+| Case PDF / prompt card | `PrimarySources/company/` (+ `readable/`) |
 | Framestorm drafts | `Framing/` |
-| Research notes / registers | `Research/` |
-| Later client artifacts | `Deliverables/` (empty until plan/solve) |
-| Method (Sean) | `SEAN-AI-WORKFLOW.md`, `In Class Practice/*-Playbook.md` |
-
-## Trap
-
-Do not smuggle clinical positioning under "research." If the buyer needs a clinical claim, that
-opportunity is out of scope for this engagement — kill it and pick another.
+| Research | `Research/` |
+| Prepare gate | `Preparing-Checklist.md` |

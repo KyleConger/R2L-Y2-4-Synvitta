@@ -1,12 +1,16 @@
 # Deliverables
 
-Client-facing outputs land here **after** prepare passes and the team asks for plan/solve.
+**Empty on purpose.** Frame, issue, problem statement, opportunity, and customer are still
+**undecided** (`Framing/STATUS.md`, `Research/STATUS.md`).
 
-Expected later (do not draft yet):
+Client-facing outputs land here only **after** those are locked and the team asks for plan/solve.
 
-- One opportunity + one customer recommendation
-- How (entry path)
-- 90-day plan
-- Supporting exhibits / appendix
+**Deliverable check:** `deliverable-check.md`
 
-Until then, keep this folder empty of recommendation drafts.
+- One opportunity, one customer  
+- Approach and regulatory assumption  
+- Three actions, 2–3 prospects  
+- Two metrics, one risk  
+- 3–5 slides  
+
+Do not draft recommendation slides while STATUS shows Not chosen.

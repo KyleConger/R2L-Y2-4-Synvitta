@@ -1,8 +1,9 @@
 line_id,statement,value,unit,tag,source_or_flag,leverage,notes
-E1,Case is market entry RUO thyroid+syphilis,,,RETRIEVED,Team brief,n/a,engagement
-E2,Deliverable is one opportunity + one customer + how + 90-day plan,,,RETRIEVED,Team brief,n/a,engagement
-E3,Out of scope includes FDA strategy financial forecast national sizing,,,RETRIEVED,Team brief,n/a,engagement
-C1,Synvitta legal identity and offering,,,ESTIMATED,UNKNOWN — need PrimarySources/company,high,fill before plan
-T1,Thyroid RUO SKU and claims,,,ESTIMATED,UNKNOWN — need PrimarySources/assays,high,fill before plan
-S1,Syphilis RUO SKU and claims,,,ESTIMATED,UNKNOWN — need PrimarySources/assays,high,fill before plan
-B1,Primary buyer role for first account type,,,ESTIMATED,UNKNOWN,high,fill in prepare
+E1,Case is U.S. market entry for Synvitta with three named opportunities,,,RETRIEVED,Case PDF,n/a,engagement — no opportunity chosen
+E2,Deliverable shape is one opportunity + one customer/partner + how + 90-day plan,,,RETRIEVED,Case PDF,n/a,engagement — not started
+E3,Out of scope includes FDA filing strategy financial forecast national sizing,,,RETRIEVED,Case PDF,n/a,engagement
+E4,No FDA authorization for clinical diagnostic marketing in U.S.,,,RETRIEVED,Case PDF,n/a,constraint fact — not a frame pick
+E5,Frame issue and problem statement,,,ESTIMATED,UNDECIDED,n/a,prepare only — do not treat any starter as locked
+C1,Synvitta product claim language on current labels/IFUs,,,ESTIMATED,UNKNOWN — need PrimarySources,high,fill in prepare; frame-agnostic
+B1,Which buyer or partner types are legitimate under allowed claims,,,ESTIMATED,UNKNOWN,high,useful under multiple frames; no pick
+P1,Relative readiness of SynELISA vs SynArray NBS vs SynArray custom,,,ESTIMATED,UNKNOWN — case qualitative only,high,comparison input later; not a choice now

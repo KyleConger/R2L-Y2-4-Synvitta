@@ -1,0 +1,50 @@
+---
+description: Keep the team on the ~4-hour session clock — Block 1 frame/hypothesize, Block 2 analysis 1:30, Block 3 decide 30 min, Block 4 build/rehearse. Use Session-Runbook + prompt card.
+alwaysApply: true
+---
+
+# Session track (keep us on track)
+
+**Triggers.** Keep us on track · where are we · session · block 1/2/3/4 · timebox · runbook ·
+hand out analysis · we’re deciding · building the deck · rehearse · prompt card.
+
+When triggered, open `Session-Runbook.md` and respond with:
+
+1. **Which block** they appear to be in (ask if unclear: “Which block / what time left?”)
+2. **Exit criteria** for that block (from the runbook)
+3. **Next artifact** + **prompt-card number** to use (AI attacks work; team does not paste AI as the answer)
+4. **What not to do yet** (e.g. Block 1: no opportunity pick; Block 3: no new research rabbit holes)
+
+## Clock (default)
+
+| Block | Window | Focus |
+|---|---|---|
+| 1 | First **hour** (Handout A: first-pass all 3 opportunities **by 1:00**) | Framing, prioritizing, hypothesis development |
+| 2 | Next **1:30** | Parallel analysis assignments (one per member) |
+| 3 | **30 min** | Decide |
+| 4 | Last **hour** | Build slides + rehearse |
+
+## Prompt-card map
+
+| Block | Lean on |
+|---|---|
+| 1 | Prompt 1 Frame challenge · Prompt 2 Tree critique · Prompt 3 Hypothesis attack |
+| 2 | Work-plan rows; Prompt 4 Regulatory questions if needed |
+| 3 | Team judgment only — AI does not pick the opportunity |
+| 4 | Prompt 5 Prospect check · Prompt 6 Skeptical client |
+
+## Block 4 deliverable check (run before rehearse)
+
+Point the team to `Deliverables/deliverable-check.md`. All must be on the 3–5 slides:
+
+- One opportunity, one customer  
+- Approach and regulatory assumption  
+- Three actions, 2–3 prospects  
+- Two metrics, one risk  
+
+## Guardrails while tracking
+
+- Still obey prepare→decide→claim→analysis→recommend ladder (`decision-routing.mdc`).
+- Beachhead: one narrow segment; conversations in the 90-day plan (`beachhead.mdc`).
+- Hard outs: no FDA filing strategy, financial forecast, national sizing.
+- If they ask to skip a gate, warn once and list what they will lose; proceed only if they insist.

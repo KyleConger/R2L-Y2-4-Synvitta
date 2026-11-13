@@ -1,0 +1,69 @@
+---
+description: Problem-statement stage — after the team picks a problem. Template + five tests; PS must serve “can Synvitta move it in 90 days?” and “how big? = value of being right.” No product/cause in the question.
+alwaysApply: true
+---
+
+# Problem statement (later stage — prioritize when triggered)
+
+**Triggers.** Write the problem statement · lock the problem statement · problem statement · PS ·
+“what should Synvitta’s leadership do” · prompt-card five tests on our statement.
+
+**Do not run this stage during early framestorm.** First the team decides *what problem they are on*
+(rival frames, support/challenge facts). Only then write the statement.
+
+## What the problem statement is for
+
+The PS exists so the team can judge options against two questions (keep both; do not collapse into
+one):
+
+| Lens | Meaning | Lands in the template as… |
+|---|---|---|
+| **Can Synvitta move it in 90 days?** | Feasible action under real constraints — observable progress inside the case’s 90-day window | **[measurable result]** + **[time]** (default time ≈ 90 days unless team sets otherwise) |
+| **How big? (the value of being right)** | What is at stake if the first move is the right one — payoff of correctness, not a national TAM exercise | The *kind* of result worth moving (still no product/cause named); later tree/research must make that value testable |
+
+**How big ≠ national market sizing** (case out). Prefer value-of-being-right forms such as: speed to
+a real counterpart, proof asset that unlocks the next bet, paid commitment, or learning that kills a
+bad path cheaply — stated without naming SynELISA/NBS/custom or a root cause.
+
+If a draft PS cannot be used to ask both “movable in 90 days?” and “value of being right?”, it fails
+— rewrite before lock.
+
+## Template (required shape)
+
+> What should **[decision maker]** do to **[measurable result]** by **[time]**, given
+> **[constraint]**, without **[boundary]**?
+
+Decision maker for this case: **Synvitta’s leadership** (unless the team explicitly names a narrower
+owner).
+
+## Five tests — all must pass
+
+1. **Call to action** — what must the client *do*?
+2. **Names the decision maker** — Synvitta’s leadership
+3. **Success and time** — measurable result **by when?** (must support *move it in ~90 days*)
+4. **States boundaries** — resources, no FDA clinical authorization, case outs, etc.
+5. **No built-in answer** — no product, customer type, channel, or cause named in the question
+
+**Plus (Synvitta PS goals):** after the five, confirm the statement still lets you ask (a) can they
+move it in 90 days? and (b) how big is the value of being right?
+
+**Hard rule:** do not put assumptions of the answer in the question. If SynELISA, SynArray, RUO kits,
+NBS, custom panels, “partner with a CLIA lab,” or a root cause appears in the statement, it fails
+test 5 — strip it and put it in hypotheses instead.
+
+**MECE:** scope must be clear enough for an MECE issue tree. See `.cursor/rules/mece.mdc`.
+
+## When asked to draft or critique a statement
+
+- Score each of the five tests: pass / fail / unclear.
+- Score the two PS goals: 90-day movability · value of being right.
+- Quote the exact words that cause any failure.
+- Offer one question that would fix each failure.
+- If the team has not yet decided which problem they are on, refuse to lock a statement and send
+  them back to framestorm.
+
+Working file: `Framing/problem-statement.md` (from `Framing/problem-statement-template.md`).
+
+**When the team announces the PS is locked:** follow `.cursor/rules/decision-routing.mdc` — next
+is MECE issue tree + prioritize (not the recommendation claim yet). Claims come only after root
+cause is stated — `.cursor/rules/hypothesis-claim.mdc`.

@@ -1,20 +1,29 @@
-# Interview / outreach questions (prepare)
+# Interview / outreach questions (prepare · undecided)
 
-Draft list. Refine after the first framestorm. Do not treat answers as a recommendation.
+**No frame or opportunity chosen.** Prefer questions that stay useful under more than one starter.
+Mark frame-contingent questions clearly.
 
-## For Synvitta (company)
+## Frame-agnostic (ask Synvitta anytime)
 
-1. What exactly ships today for thyroid and for syphilis under RUO labeling?
-2. What performance or workflow proof can a research buyer see without a clinical claim?
-3. Have any labs evaluated the assays? What happened?
-4. Direct sales, distributor, or both — and who owns the relationship?
-5. What would make the next 90 days a success for you (meeting, eval, PO, repeat)?
-6. Which customer have you already decided you want — and what would change your mind?
+1. What claim language is on products you would sell in the U.S. today?
+2. What does “success in 90 days” mean to leadership (meeting, eval, paid SOW, PO, LOI)?
+3. Who has already said no — buyer, lab, partner — or has no one?
+4. What transferred from Brazil (if anything), and what did not?
+5. Direct vs distributor vs co-development — what exists today?
 
-## For a candidate research buyer
+## Useful under several frames (still not a pick)
 
-1. Where do thyroid / syphilis research assays show up in your workflow today?
-2. Who chooses the kit vs who signs the PO?
-3. What forces a re-validation, and what is the pain of switching?
-4. What does a vendor need to provide for an RUO eval to start?
-5. What would kill interest in the first 90 days?
+1. Who may legitimately buy or partner under RUO / collaboration rules — and who may not?
+2. What proof can a counterpart see without a clinical claim?
+3. What would kill interest in the first 90 days for a serious prospect?
+
+## Frame-contingent (only if that starter is under active test)
+
+| If testing… | Possible questions |
+|---|---|
+| Who-may-buy constraint | Map buyer types before ranking SynELISA / NBS / custom |
+| Evidence-not-revenue | What non-revenue milestone would count as a win? |
+| Brazil misleading | What Brazil facts must not be imported into U.S. prospecting? |
+| Revenue builds clinical path | What near-term dollar also creates a transferable validation asset without clinical claims? |
+
+Do not treat answers as a recommendation while `Framing/STATUS.md` shows undecided.

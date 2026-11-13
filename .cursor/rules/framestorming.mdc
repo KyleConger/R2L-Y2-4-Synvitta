@@ -5,12 +5,19 @@ alwaysApply: true
 
 # Framestorming (framing phase)
 
-**Triggers.** Framestorm · frame or reframe · define the problem · problem statement · alternative
-framings · what is the real problem · issue tree · disaggregate · MECE · prepare.
+**Triggers.** Framestorm · frame or reframe · define the problem · alternative framings · what is
+the real problem · issue tree · disaggregate · MECE · prepare.
 
 **When any of those apply, read `In Class Practice/Framestorming-Playbook.md` FIRST**, then apply the
 Synvitta room list below. Label output as a **draft** unless asked for an answer. Do not pick the
 one opportunity/customer or write the 90-day plan in a framing pass.
+
+**Problem statement is a later stage.** Do not lock a problem statement while still framestorming.
+When the team has decided which problem they are on and asks for a statement, switch to
+`.cursor/rules/problem-statement.mdc` and use the template
+`What should [decision maker] do to [measurable result] by [time], given [constraint], without [boundary]?`
+with the five tests (call to action · Synvitta’s leadership · success/time · boundaries · no product
+or cause in the question).
 
 ## Synvitta rooms (relocate the problem here)
 
@@ -29,18 +36,23 @@ Drinkware rooms in the playbook are method examples. For this case, walk:
 
 ## Non-negotiables
 
-- **Interrogate constraints before working.** "No FDA" means stay RUO — do not smuggle a clinical path.
+- **MECE is core.** Obey `.cursor/rules/mece.mdc` and Handout A
+  (`PrimarySources/handouts/Handout-A-Three-Cuts-Same-Problem.md`). Sketch cuts A/B/C before
+  committing; product×customer is a matrix; never both on the same level. Flag overlap, gap, mixed
+  cuts, and actions posing as branches.
+- **Interrogate constraints before working.** "No FDA" means do not smuggle clinical marketing rights.
 - **Generate frames by relocating the problem**, not by rewording. Strong frames contradict each other.
 - **Run the failure tests** from the playbook before presenting.
 - **Classify by role only** — root frame, rival mechanism, hard constraint, sub-branch, decision
   architecture.
 - **Do not grade your own homework.** Force at least one promotion and one demotion.
-- **Sequence by cost of resolution.** Cheap binary gates first (e.g. RUO buyer exists? named account
-  will take a meeting?).
+- **Sequence by cost of resolution.** Cheap binary gates first.
 - **Flag source tier and who paid for the number.**
 
 Default deliverable: table of **framing / underlying assumptions / what it would make us measure**,
 draft-labeled, ending with the **one question** to ask the client next — not a conclusion.
 
-**Handoff.** When the task turns to choosing the opportunity/customer, writing how, or a 90-day plan,
-switch to `.cursor/rules/solving.mdc` and obey `.cursor/rules/synvitta-case.mdc`.
+**Handoff.** When the team **announces** which problem/frame they are on, follow
+`.cursor/rules/decision-routing.mdc` (next step = problem statement — not opportunity pick).
+When the task turns to choosing the opportunity/customer, writing how, or a 90-day plan, switch to
+`.cursor/rules/solving.mdc` and obey `.cursor/rules/synvitta-case.mdc`.

@@ -4,9 +4,18 @@ For agents and teammates. Prefer this map over browsing the whole repo.
 
 ## Read first (every substantive task)
 
+0. `Framing/STATUS.md` + `Research/STATUS.md` — confirm what is still **undecided**
 1. `Synvitta-Case-Background.md` — engagement contract and outs
-2. `PrimarySources/CORE-INFORMATION.md` — tagged facts
-3. `.cursor/rules/synvitta-case.mdc` — hard scope (always on)
+2. `PrimarySources/CORE-INFORMATION.md` — tagged facts (not decisions)
+3. Case PDF + prompt card under `PrimarySources/company/` (readable copies in `readable/`)
+4. **Handout A** (tree cuts): `PrimarySources/handouts/Handout-A-Three-Cuts-Same-Problem.md` + `Framing/issue-tree-cuts-handout-a.md`
+5. Dated regulatory / cannot-claim (separate from Handout A): `PrimarySources/regulatory/dated-regulatory-facts.md`
+6. `.cursor/rules/synvitta-case.mdc` — hard scope (always on)
+7. Framestorm draft: `Framing/synvitta-framestorm-questions-draft.md` (starters only)
+8. Problem statement (later only): `Framing/problem-statement-template.md`
+9. After root cause (before recs): `Framing/hypothesis-template.md`
+10. Test claims: `Research/analysis-workplan-template.md`
+11. Beachhead candidates: `Research/beachhead-candidates.md`
 
 ## Then, by task
 

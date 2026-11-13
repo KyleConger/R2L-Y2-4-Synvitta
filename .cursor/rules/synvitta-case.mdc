@@ -1,50 +1,65 @@
 ---
-description: Synvitta engagement scope — market entry, RUO thyroid/syphilis, one opportunity + one customer + how + 90-day plan. Bans FDA strategy, financial forecasts, and national market sizing.
+description: Synvitta engagement scope — three U.S. options, one recommendation later; prepare until decisions are announced. On each decision, route to next steps via decision-routing.mdc.
 alwaysApply: true
 ---
 
 # Synvitta engagement scope
 
-Read `Synvitta-Case-Background.md` and `PrimarySources/CORE-INFORMATION.md` before any substantive
-work. Facts go in PrimarySources; analysis goes in Framing / Research / Deliverables. Do not invent
-company claims — tag unknowns and ask.
+Read `Synvitta-Case-Background.md` and `PrimarySources/CORE-INFORMATION.md` before substantive
+work. Check `Framing/STATUS.md` and `Research/STATUS.md` for what is locked vs open.
+Governing sources: case PDF + prompt-card draft under `PrimarySources/company/`.
 
 ## What this engagement is
 
-Market entry for **Synvitta**, limited to **research-use-only (RUO)** assays for **thyroid** and
-**syphilis**. The end deliverable shape (when solving is requested) is:
+U.S. market entry for **Synvitta Diagnostics**. The case names **three** opportunities; the team
+recommends **ONE** first move, with customer/partner, route, and a 90-day plan.
 
-1. **One opportunity** (named use case / setting)
-2. **One customer** (named account or account archetype with a real named example)
-3. **How they do it** (entry path, buyer, proof, access)
-4. **A 90-day plan** (actions that make that entry real)
+| Option in case | Near-term character |
+|---|---|
+| SynELISA™ research kits (TSH, T4, syphilis Abs) | RUO; not for patient diagnosis |
+| SynArray™ newborn screening | Late-stage; future clinical path needs development/validation/regulatory |
+| SynArray™ custom panels (e.g. SynHormone™) | Collaborations / paid co-development |
 
-Until the user asks to plan, recommend, or solve: **prepare only** — define, disaggregate, gather and
-tag facts. Do not draft the opportunity pick, the customer pick, the how, or the 90-day plan.
+End deliverable shape (when solving is requested) — see `Deliverables/deliverable-check.md`:
+
+- One opportunity, one customer  
+- Approach and regulatory assumption to verify  
+- Three actions, 2–3 prospects  
+- Two metrics, one risk  
+- 3–5 slides
+
+## Decisions and next steps
+
+**Default until STATUS says otherwise:** frame, issue, problem statement, opportunity, customer,
+how, and 90-day plan are **undecided**. Do not write as if they were locked.
+
+**When the team announces a decision:** follow `.cursor/rules/decision-routing.mdc` — confirm,
+update STATUS, point to the **immediate** next steps only, list what remains open.
+
+**MECE is core** — `.cursor/rules/mece.mdc`. Overlaps and gaps are findings.
 
 ## Hard outs — refuse and redirect
 
-Do not produce, even as "context" or appendix:
-
 | Out of scope | Redirect to |
 |---|---|
-| FDA / 510(k) / PMA / CLIA / clinical claims strategy | Stay on RUO label, research buyer, research workflow |
-| Multi-year P&L, revenue forecast, fundraising model | Account-level feasibility only if asked later |
-| National TAM / SAM / SOM or category market sizing | Account fit, buyer access, and proof-of-entry |
-| Broad multi-product portfolio strategy | Thyroid RUO and syphilis RUO only |
-| "Spray and pray" multi-segment GTM | One opportunity, one customer |
+| FDA filing strategy / legal opinions | Questions to verify (case instruction) |
+| Detailed financial forecast | Speed-to-revenue and readiness comparisons only |
+| Nationwide market sizing | Account/partner fit and route credibility |
+| Three full business plans | One priority opportunity |
 
-If a prompt pulls toward an out, say so in one sentence and continue inside the rails.
+## Phase ladder
 
-## Prepare vs plan
-
-| Phase | Allowed | Not yet |
+| Phase | Allowed | Open next when… |
 |---|---|---|
-| Prepare | Case facts, source map, framestorm drafts, issue tree, research notes, assumption register, customer long-list *as evidence*, interview questions | Choosing the one opportunity/customer, GTM how, 90-day plan, recommendation |
-| Plan / solve | Only after an explicit ask | — |
+| Prepare / framestorm | Facts, rival frames, support/challenge | Frame/problem announced |
+| Problem statement | Five tests + 90-day move + value of being right | PS locked |
+| Issue tree / research | MECE tree, priorities, vetted answers | Root cause can be stated |
+| Root cause → claim | “This is the root cause…” then falsifiable claim + rival | Claim drafted |
+| Analysis test | Branch-tied work plan; peers/segments; data ladder (`.cursor/rules/analysis-test.mdc`) | Claim survived or revised |
+| Plan / solve | One opportunity, customer, how, 90-day | Explicit ask **after** analysis |
 
 ## Source discipline
 
-- Every material number or claim: **RETRIEVED** or **ESTIMATED**, with source or flag.
-- Prefer buyer / lab / distributor primary evidence over secondary market reports.
-- Charter / drinkware artifacts in this repo are **method practice only**, not case facts.
+- Tag material claims **RETRIEVED** or **ESTIMATED**.
+- Do not invent Synvitta product, customer, or regulatory facts.
+- Drinkware / Charter artifacts are method practice only.

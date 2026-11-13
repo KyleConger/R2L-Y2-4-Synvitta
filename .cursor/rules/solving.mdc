@@ -9,9 +9,13 @@ alwaysApply: true
 which customer · how should they enter · recommendation · course of action · work plan · 90-day plan ·
 prove it can be done.
 
-**When any of those apply:** (1) confirm the user wants plan/solve, not prepare; (2) read
-`In Class Practice/Solving-Playbook.md` for method discipline; (3) obey `.cursor/rules/synvitta-case.mdc`
-on scope. Playbook sizing rituals that imply national TAM do **not** apply here.
+**When any of those apply:** (1) confirm the user wants plan/solve, not prepare; (2) confirm
+`Framing/STATUS.md` has **root cause** stated and a **falsifiable claim + rival** (or ask to finish
+`.cursor/rules/hypothesis-claim.mdc` first); (3) read `In Class Practice/Solving-Playbook.md`;
+(4) obey `.cursor/rules/synvitta-case.mdc`. National TAM rituals do **not** apply.
+
+**When they announce a mid-solve lock** (opportunity, customer/route, or 90-day draft): follow
+`.cursor/rules/decision-routing.mdc` — update STATUS and point to the immediate next step only.
 
 ## Handoff: never solve a framestorm you have not read
 
@@ -34,32 +38,50 @@ paragraph.
 
 ## Non-negotiables (Synvitta-shaped)
 
-- **One opportunity + one customer** in the recommendation. Alternatives belong in the appendix as
+- **MECE is core.** Obey `.cursor/rules/mece.mdc`. Options, criteria, buyer types, actions, and
+  metrics must pass overlap/gap checks. Killed alternatives in the appendix keep the choice set
+  exhaustive relative to the case. Do not smuggle a hybrid “do two opportunities” without naming it.
+- **Beachhead discipline** (`.cursor/rules/beachhead.mdc`): one narrow segment; buyers who talk to
+  each other; prove with a small test then expand; **entry mode is a choice**; real conversations in
+  the 90-day plan; kill pilots that never convert. Start small, keep moving.
+- **One opportunity + one customer/partner** in the recommendation, chosen from the case’s three
+  options (SynELISA RUO · SynArray NBS · SynArray custom). Alternatives belong in the appendix as
   killed options with kill rules.
 - **How is operational**, not aspirational: who buys, who uses, who pays, what proof they need, what
-  Synvitta must deliver in sequence.
-- **90-day plan is the mechanism**, not a slide decoration: week-level actions, owners, and kill
-  criteria that protect the one bet.
+  Synvitta must deliver in sequence — including named **entry mode**.
+- **90-day plan is the mechanism**, not a slide decoration: week-level actions, **customer
+  conversations**, owners, and kill criteria that protect the one beachhead.
 - **One assumption per line with a line ID**; derived lines reference IDs.
 - **Tag every input RETRIEVED or ESTIMATED**; flag low confidence in the body, not only footnotes.
 - **Build the entry path twice** (e.g. buyer-access route vs. scientific-fit route) and reconcile;
   disclose shared assumptions.
-- **Write the kill rule and "unwilling to claim" list before the recommendation.**
+- **Write the kill rule and "unwilling to claim" list before the recommendation** — reuse the claim’s
+  4-hour and 90-day kills; do not invent a soft kill.
 - **Recompute any arithmetic in code** before shipping.
 
 ## Still banned while solving
 
 FDA filing strategy · multi-year financial forecast · national market sizing — see `synvitta-case.mdc`.
 
+## Deliverable check (case — must all appear)
+
+1. **One opportunity** · **one customer/partner**
+2. **Approach** + **key regulatory assumption to verify**
+3. **Three actions** · **2–3 prospects**
+4. **Two metrics** · **one major risk**
+5. **3–5 slides** total
+
+Also: beachhead + conversations in the 90-day plan; no FDA filing strategy, forecast, or national
+TAM. Full checklist: `Deliverables/deliverable-check.md`.
+
 ## Pre-delivery gate — do not deliver until all are true
 
-1. Framing work was read; the chosen frame is stated.
-2. Exactly one opportunity and one customer are named.
-3. "How" specifies buyer, user, proof, and access path.
-4. A 90-day plan with actions, sequencing, and kill criteria exists.
-5. Killed alternatives and kill rules are visible.
-6. Every material input is tagged retrieved or estimated; leverage ranking exists for estimates.
-7. Shared assumptions between any dual builds are disclosed.
-8. No FDA strategy, financial forecast, or national TAM section appears.
-9. An "unwilling to claim" list is present.
-10. If superseding a prior pick, the correction is plain and the old doc is marked superseded.
+1. Framing work was read; root cause + claim survived analysis (or gaps stated).
+2. Deliverable check items 1–5 above are all on the slides.
+3. "How" / approach names entry mode, buyer, proof, access.
+4. 90-day actions include real conversations; kill criteria exist (e.g. pilots that never convert).
+5. Killed alternatives visible in appendix or spoken backup.
+6. Material inputs tagged retrieved or estimated.
+7. No FDA filing strategy, financial forecast, or national TAM section.
+8. Unwilling-to-claim list ready for Q&A.
+9. If superseding a prior pick, the correction is plain.

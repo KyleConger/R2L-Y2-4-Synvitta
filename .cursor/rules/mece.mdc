@@ -1,0 +1,54 @@
+---
+description: MECE is core on this engagement — mutually exclusive and collectively exhaustive cuts for frames, issue trees, criteria, options, and plans. Flag overlaps and gaps; do not paper them over.
+alwaysApply: true
+---
+
+# MECE (core method)
+
+**Mutually Exclusive** — at one level of a tree or list, items do not overlap; a fact or option
+belongs in one bucket.  
+**Collectively Exhaustive** — together they cover the decision space the team claims to cover; name
+explicit exclusions rather than silent gaps.
+
+## Handout A (course) — first cut
+
+Authoritative cut menu: `PrimarySources/handouts/Handout-A-Three-Cuts-Same-Problem.md`
+
+- Sketch **two or three** first cuts (A opportunity · B customer type · C business model) before committing.
+- First-pass compare all three opportunities in hour 1 (**by 1:00**).
+- **Product × customer = matrix** — never both on the same tree level.
+- Define the four case criteria before scoring; give FDA status **one** home (readiness or barrier).
+- Name what you left out (e.g. licensing, distributors) — case’s three opportunities are exhaustive only by case boundary.
+
+## When MECE applies here
+
+| Artifact | MECE test |
+|---|---|
+| Rival root frames | Different *locations* of the problem, not rewordings of one frame |
+| Issue-tree branches (same level) | One cut rule; Handout A A/B/C — no product+customer on same level |
+| Case options (SynELISA / NBS / custom) | Exclusive picks for “one opportunity”; no silent hybrid |
+| Comparison criteria | business potential · readiness · barriers · speed to revenue — non-overlapping defs |
+| Buyer / partner types (Handout A) | Research labs · pharma/CROs · CLIA labs · diagnostic developers · state NBS programs |
+| Business models (Handout A) | Product sales · services/co-dev · partnership/evaluation |
+| 90-day actions / metrics | No duplicate actions/metrics under new names |
+| Killed alternatives | Appendix keeps choice set exhaustive vs case |
+
+## Failure modes (call them out)
+
+- **Overlap** — same evidence or option appears under two siblings
+- **Gap** — a case option, buyer type, or criterion is missing with no stated exclusion
+- **Mixed cuts** — one level mixes e.g. product *and* geography *and* “feasibility”
+- **Action posing as a branch** — “do a pilot” is decision architecture, not a MECE cause branch
+- **Double-duty row** — one line does two jobs (split it; failing MECE inside a row is a finding)
+
+## Prepare vs decide
+
+While frame/issue are **undecided**, use MECE to *test* starter lists and draft trees — tag
+overlaps/gaps. Do not pretend an incomplete starter set is an exhaustive diagnosis.
+
+Prompt-card tree critique tags (reuse): **overlap · gap · mixed cuts · action posing as a branch**.
+
+## Output habit
+
+Any tree, criteria set, or option list: state the **cut rule** in one sentence, then run MECE. If it
+fails, fix or flag before treating it as structure for research.

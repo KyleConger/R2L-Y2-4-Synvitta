@@ -1,11 +1,19 @@
 # Framing
 
-Draft framestorms and issue trees live here. **No recommendation** and **no 90-day plan**.
+**Status: prepare only — no frame, issue, or problem statement has been decided.**
 
-## Expected artifacts
+Draft framestorm starters, support/challenge drills, and (later) issue trees live here. Nothing
+here is a recommendation, a locked problem, or a 90-day plan.
 
-- `*-framestorm.canvas.tsx` or `.md` — alternative root frames
-- `*-synthesis-reclassified.*` — role classification after multiple runs
-- Short note of the **one next client question**
+See `STATUS.md` before editing.
 
-Use Synvitta rooms in `.cursor/rules/framestorming.mdc`. Label outputs **draft**.
+## Expected artifacts (in order)
+
+1. Framestorm starters — **undecided**
+2. Problem chosen → problem statement
+3. MECE issue tree + priorities → research / vetted answers
+4. **Root cause** stated (“this is the root cause of the problem”) — **before recommendations**
+5. Claim + rival (`hypothesis-template.md`) — because that can fail; 4-hour + 90-day kills
+6. Recommendation only after step 5 and an explicit plan/solve ask
+
+**MECE** — `MECE.md`. **Claims** — `.cursor/rules/hypothesis-claim.mdc`.

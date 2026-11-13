@@ -1,0 +1,48 @@
+---
+description: When the team announces a decision, update STATUS and point them to the next steps only — including root-cause-before-claim and claim-before-recommendation.
+alwaysApply: true
+---
+
+# Decision routing (announce → next steps)
+
+**Triggers.** We decided · we chose · locking · locked · going with · frame is · problem is ·
+root cause · hypothesis · claim · opportunity is · customer is · partner is · we’re committing to ·
+STATUS update · next steps after decision.
+
+For **session clock / keep us on track**, also follow `.cursor/rules/session-track.mdc` and
+`Session-Runbook.md` (do not skip the decision ladder just to “make the deck”).
+
+When the user announces a decision, do **all** of the following in order:
+
+1. **Confirm** what was decided in one sentence (their words, not a new recommendation).
+2. **Update** `Framing/STATUS.md` and/or `Research/STATUS.md` to match (date the change).
+3. **Point to next steps only** — the immediate gate below, with file/rule links. Do not jump to
+   plan/solve or invent later locks.
+4. **List what remains undecided** so nothing is silently assumed.
+5. **Obey hard outs** (no FDA filing strategy, forecast, national sizing) and **MECE** on any new
+   structure.
+
+If the announcement is ambiguous, ask which gate they mean before updating STATUS.
+
+## Decision → next steps
+
+| Team announces… | Update STATUS | Next steps to point them to |
+|---|---|---|
+| **Frame / which problem we are on** | Frame = chosen | Problem statement (`problem-statement-template.md`): five tests + **90-day move?** + **value of being right**. No opportunity pick. |
+| **Problem statement locked** | PS = locked | MECE issue tree; prioritize branches. Do **not** write the recommendation claim yet. |
+| **Issue tree / priorities locked** | Tree = locked | Research on prioritized branches; vet answers toward **where the problem is**. |
+| **Root cause located** (“this is the root cause of the problem”) | Root cause = stated | **Before recommendations:** write claim via `hypothesis-template.md` + `.cursor/rules/hypothesis-claim.mdc` — because that can fail · evidence · decision change · kill; 4-hour + 90-day; **rival on same branch**. |
+| **Claim + rival drafted** | Claim = drafted | **Test with analysis** (`.cursor/rules/analysis-test.mdc`): each row tied to branch(es); prefer **peers** and **across segments**; data ladder in hand → public named dated → ask → proxy+limits. Work-plan columns: hypothesis, analysis, data needed, source/gap, confirms/kills if, owner/next step (+ metric/segment/period, deadline). File: `Research/analysis-workplan-template.md`. |
+| **Claim survives / dies from analysis** | Claim = tested | If survives: prepare→plan only on explicit ask. If killed: revise root cause/claim or branch — do not recommend on a dead claim. Carry kills forward. |
+| **Prepare gate / ready to recommend** | Plan gate open | One opportunity + **one beachhead** (narrow segment + entry mode) + how + 90-day plan (`.cursor/rules/beachhead.mdc`); appendix for beaches not taken. |
+| **One opportunity chosen** | Opportunity = named | Lock **one beachhead segment** + entry mode + key regulatory assumption to verify; use `Research/beachhead-candidates.md` as a menu, not a verdict. |
+| **Customer/partner + route chosen** | Customer = named | 90-day plan with **real conversations**, small test, conversion kill; 3 actions, 2–3 prospects, 2 metrics, 1 risk. |
+| **Recommendation / 90-day drafted** | Plan = drafted | Skeptical-client challenge + last-mile exhibits. |
+
+## Do not
+
+- Treat a frame choice as an opportunity pick (or the reverse).
+- Write the problem statement before a problem is chosen.
+- Jump to recommendations before **root cause** + **falsifiable claim** (with rival).
+- Write a because that cannot fail.
+- Leave STATUS stale after a clear lock announcement.

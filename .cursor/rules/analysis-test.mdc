@@ -1,0 +1,66 @@
+---
+description: Test problem ideas with analysis — hypothesis tied to issue-tree branch(es); comparison types; data ladder; work-plan rows with confirms/kills, owner, deadline.
+alwaysApply: true
+---
+
+# Analysis test (hypothesis → evidence)
+
+**Triggers.** Analysis · work plan · test the hypothesis · compare · against peers · across
+segments · data ladder · source gap · confirms if · kills if · owner / next step.
+
+Once there is a credible idea of **where the problem is** (and ideally a falsifiable claim), **test
+it with analysis** — do not jump to recommendations.
+
+## Tie to the tree
+
+Every analysis row must name the **issue-tree branch(es)** it serves. Orphan analyses (no branch)
+are out of scope. See `.cursor/rules/mece.mdc` and `.cursor/rules/hypothesis-claim.mdc`.
+
+## Comparison menu (pick one primary cut per row)
+
+| Comparison | Use when… |
+|---|---|
+| **Against peers** | Same claim / buyer type / product class vs named peers |
+| **Across segments** | Same question split by buyer type, setting, claim regime, geography |
+| **Over time** | Before/after or trend (only if dated points exist) |
+| **Decomposition** | Break a result into additive/multiplicative parts |
+| **Against a target** | Vs an explicit threshold Synvitta set |
+
+**On this case (few/no numbers):** prefer **against peers** and **across segments**. Use over time /
+decomposition / target only when a named, dated series or threshold is actually in hand.
+
+## Data ladder (no data? go down in order)
+
+1. **In hand** — case, Handout A, CORE-INFORMATION, team notes  
+2. **Public, named, and dated** — cite org + document + date  
+3. **Ask** — Synvitta / buyer / expert question with owner  
+4. **Proxy** — stand-in metric **with its limits stated** (never silent)
+
+Do not invent figures. Tag RETRIEVED vs ESTIMATED. National TAM remains out of scope.
+
+## Work-plan row (required columns)
+
+| Hypothesis | Analysis | Data needed | Source / gap | Confirms if | Kills if | Owner / next step |
+|---|---|---|---|---|---|---|
+
+Each row must also be checkable as:
+
+| Must have | Meaning |
+|---|---|
+| Tied to a **branch** | Issue-tree ID / name |
+| A **comparison** | Peers / segments / time / decomposition / target |
+| **Metric / segment / period** | What is measured, on whom, over what window |
+| **Named and dated** source — or explicit gap + ladder step | No anonymous “research says” |
+| **Observable** confirms / kills | Matches 4-hour and/or 90-day horizons where possible |
+| **Owner + deadline** | A name and a when |
+
+## Synvitta bias (prepare)
+
+- 4-hour window: peers and segments via public named/dated sources beat fake precision.  
+- 90-day window: outreach / eval outcomes can finish kills the desk cannot.  
+- Regulatory “cannot claim” facts stay in `PrimarySources/regulatory/` — dated.
+
+Working file: `Research/analysis-workplan-template.md` → `Research/analysis-workplan.md` when open.
+
+**When analyses are run:** update confirms/kills on the claim; follow
+`.cursor/rules/decision-routing.mdc` (do not recommend until root cause + claim survive tests).

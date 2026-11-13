@@ -37,6 +37,12 @@ A strong prompt is a controlled work order, not a topic.
 
 Then iterate: inspect, tighten the weakest control, rerun. Do not merely ask to “make it better.”
 
+## Live session clock
+
+Use `Session-Runbook.md`: hour 1 frame/prioritize/hypothesize → 1:30 parallel analysis → 30 min
+decide → last hour build/rehearse. Prompt-card Prompts 1–6 attack the team’s work; do not paste AI
+as the answer. In chat: **“keep us on track.”**
+
 ## Applied to Synvitta (prepare)
 
 ### Thought-partner prompt (define)

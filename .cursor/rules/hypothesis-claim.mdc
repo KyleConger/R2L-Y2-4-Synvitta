@@ -1,0 +1,71 @@
+---
+description: After priorities and vetted root-cause location — before any recommendation. Falsifiable claim (because that can fail), evidence, decision change, kill conditions; 4-hour vs 90-day tests; rival hypothesis on the same branch.
+alwaysApply: true
+---
+
+# Hypothesis / claim (before recommendations)
+
+**Triggers.** Hypothesis · claim · because · kill condition · rival hypothesis · root cause ·
+“this is the root cause” · we believe · would be wrong if.
+
+## Gate — do not write the claim yet if…
+
+| Still open | Do this instead |
+|---|---|
+| Frame / problem not chosen | Framestorm → problem statement |
+| Problem statement not locked | `.cursor/rules/problem-statement.mdc` |
+| Priorities / issue branches not set | MECE tree + prioritize |
+| Answers not vetted to **where the problem is** | Research / falsifiers first |
+
+**Before any recommendation**, the team must be able to say:  
+**“This is the root cause of the problem.”**  
+(That is a location of the constraint — still not “therefore buy SynELISA.”)
+
+Only then write the working claim.
+
+## Required claim shape (four parts)
+
+1. **Claim with a because that can fail** — specific mechanism, not a slogan  
+2. **Evidence that puts it first** — why this claim, not a sibling  
+3. **Decision change** — what Synvitta does **differently** if this is right  
+4. **Kill condition** — what observable result would prove it wrong  
+
+### Template (use this form)
+
+> We believe **[customer or partner type]** would **[buy / evaluate / co-develop]** within 90 days
+> **because** ___.  
+> Evidence that puts it first: ___.  
+> If right, Synvitta does differently: ___.  
+> We would be wrong if ___.
+
+The because must be **able to fail**. If nothing could falsify it, rewrite.
+
+## Two test horizons (both required)
+
+| Horizon | What “testable” means | Example style (not a locked claim) |
+|---|---|---|
+| **Next ~4 hours** | Can be checked in the case work window (desk research / case facts) | e.g. no named U.S. buyers of comparable products; no public RUO listing; Brazil transfer fact missing |
+| **90 days** | Only observable after real outreach / eval / partner motion | e.g. no eval started; no SOW; counterpart refuses under claim rules |
+
+Every serious hypothesis needs **at least one 4-hour kill** and **at least one 90-day kill**.  
+Prompt-card style: mark whether the kill is observable in three hours, in 90 days, or neither — “neither” fails.
+
+## Rival on the same branch (strong teams)
+
+On the **same** prioritized branch, write a **rival hypothesis** that competes on mechanism
+(not a rewording). Test both. MECE: rivals are mutually exclusive explanations; do not “both win”
+without splitting the branch. See `.cursor/rules/mece.mdc`.
+
+## Hard rules
+
+- **Before recommendations** — no “therefore the one opportunity is X” until root cause is stated and
+  the claim’s because can fail.
+- Do not smuggle the product pick into the because as if it were evidence.
+- Align with PS goals: **90-day movability** and **value of being right**.
+- Case outs still hold (no FDA filing strategy, forecast, national TAM).
+
+Working files: `Framing/hypothesis-template.md` → `Framing/hypotheses.md` when the stage opens.
+
+**When the team announces root cause + claim drafted:** follow `.cursor/rules/decision-routing.mdc`
+— next is **analysis test** (`.cursor/rules/analysis-test.mdc`), not the recommendation. Each
+hypothesis must map to issue-tree branch(es) and a work-plan row.
