@@ -1,16 +1,19 @@
 # Path 3 recommendation ideas — SynArray™ custom (SynHormone-shaped)
 
-**Status:** Ideation only · **Plan not locked** · beachhead still open  
+**Status:** **Idea B selected (2026-11-13)** · Assay-Developer Eval→SOW · **90-day plan drafted** → `Deliverables/path-3-route-B-90-day-plan.md` · final recommendation deck open  
 **As of:** 2026-11-13  
 **Opportunity (named):** SynArray™ custom panels · team thesis = diagnostic **precision and speed** (**ESTIMATED** / **Plausible but untested** vs peers — analysis rows not yet run to confirms/kills)  
-**Not locked:** one beachhead · one customer · one 90-day plan · final recommendation deck  
+**Locked (route B):** beachhead = **diagnostic developers** · entry mode = **research eval → paid custom SOW** · customer/partner type = diagnostic developers  
+**Prospects (interpreted 2026-11-13):** TF = Thermo Fisher (high) · Agilant = Agilent (high) · Pancher = ambiguous (confirm)  
+**Not locked:** Pancher exact org · analysis confirms/kills · final slides  
+
 
 **Hard outs:** no FDA filing strategy · no financial forecast · no national TAM · no clinical marketing without authorization · not “spray every disease.”  
 **Honesty bar:** do **not** treat precision/speed as confirmed. Cost leadership = **Unsupported**.
 
 **Sources in hand:** `Framing/STATUS.md` · `chosen-frame.md` · `problem-statement.md` · `hypotheses.md` · `Research/analysis-workplan.md` · `beachhead-candidates.md` §3 · `Deliverables/deliverable-check.md` · `PrimarySources/CORE-INFORMATION.md` · `PrimarySources/regulatory/dated-regulatory-facts.md`
 
-**Team default candidate (not a lock):** Idea A — closest to beachhead §3 menu (hormone-focused paid co-dev with pharma/CRO or diagnostic-developer archetype).
+**Selected:** Idea B — Assay-Developer Eval→SOW (diagnostic developers; research evaluation then paid custom SOW). Ideas A/C/D = beaches not taken.
 
 ---
 
@@ -63,7 +66,7 @@
 
 ---
 
-## Idea B — Assay-Developer Eval → Paid SOW
+## Idea B — Assay-Developer Eval → Paid SOW ✅ **SELECTED (2026-11-13)**
 
 | Element | Content |
 |---|---|
@@ -186,9 +189,9 @@
 
 ## What remains undecided
 
-- Which **one** idea (beachhead + entry mode) becomes the recommendation  
 - Whether primary precision/speed claim **survives** analysis (B2) or rival agility wins (B2-rival)  
-- Named real orgs for Prompt 5 (long-list still empty of live rows)  
-- Key regulatory assumption wording for outreach copy (B4)
+- **Pancher** exact org confirmation for Prompt 5  
+- Outreach copy that keeps eval under RUO/research boundaries (B4) · regulatory assumption **named to verify**, not yet verified  
+- Final 3–5 slides + rehearsal  
 
-**Next (decision-routing):** run / finish analysis rows → pick **one** beachhead + entry mode + regulatory assumption to verify → then draft the locked 90-day plan against `deliverable-check.md` (still 3–5 slides when solving for real).
+**Next (decision-routing):** skeptical-client challenge + last-mile exhibits · build slides from `path-3-route-B-90-day-plan.md`.
