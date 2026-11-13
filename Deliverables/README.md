@@ -1,9 +1,10 @@
 # Deliverables
 
-**Empty on purpose.** Frame, issue, problem statement, opportunity, and customer are still
-**undecided** (`Framing/STATUS.md`, `Research/STATUS.md`).
+Client-facing outputs land here when the team asks for plan/solve.
 
-Client-facing outputs land here only **after** those are locked and the team asks for plan/solve.
+**Current (2026-11-13):** Opportunity **named** = SynArray™ custom (precision/speed).  
+**Recommendation ideas (not locked):** `path-3-recommendation-ideas.md`  
+**Plan / beachhead / customer:** still **open** — see `Research/STATUS.md`, `Framing/STATUS.md`.
 
 **Deliverable check:** `deliverable-check.md`
 
@@ -13,4 +14,4 @@ Client-facing outputs land here only **after** those are locked and the team ask
 - Two metrics, one risk  
 - 3–5 slides  
 
-Do not draft recommendation slides while STATUS shows Not chosen.
+Hard outs: no FDA filing strategy · no financial forecast · no national TAM.

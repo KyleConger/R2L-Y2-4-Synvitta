@@ -32,4 +32,11 @@ Prefer not mixing in one branch:
 - **Can we move it in 90 days?**
 - **How big is the value of being right?**
 
-**Status:** method rail — cut not locked (`STATUS.md`).
+**Status (2026-11-13 backfill):** PS locked · opportunity named (custom) · **full issue tree not locked**. Thin research cut for analysis only:
+
+| Level | Cut rule | Branches | MECE note |
+|---|---|---|---|
+| 1 (settled by opportunity lock) | Handout A Cut A | SynELISA · NBS · **custom (named)** | Exclusive pick for “one opportunity”; leftovers named: licensing/distributors out by case boundary |
+| 2 (research — not customer on same level as product) | What must be true for a PS commitment | B1 category/peers · B2 advantage · B3 segment demand · B4 claim-rule fit | Product×customer stays a **matrix** when beachhead locks; do not merge B2 performance with B2-rival access without splitting |
+
+Detail: `Research/analysis-workplan.md` branch map.

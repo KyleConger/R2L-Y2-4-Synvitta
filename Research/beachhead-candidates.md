@@ -1,6 +1,6 @@
 # Beachhead candidates by product (PREPARE · not a pick)
 
-**Status:** undecided — no opportunity or beachhead locked.  
+**Status (2026-11-13):** opportunity **named** = SynArray™ custom (precision/speed) · beachhead segment + entry mode still **undecided**.  
 **Method:** one narrow segment first; buyers of similar products who talk to each other; small test
 then expand; entry mode is a choice. See `.cursor/rules/beachhead.mdc`.
 
@@ -70,5 +70,5 @@ development · laboratory partnership for expert regulatory assessment.
 | SynArray NBS | NBS methods / research collaborator network | Eval/collaboration or regulatory-assessment partnership | Named talks + one scoped joint plan |
 | SynArray custom | Hormone biomarker co-dev partners | Paid co-development | Named talks + SOW/paid discovery |
 
-**Reminder:** choosing a beachhead still waits for frame → PS → root cause → claim → analysis.
-This file only maps **what the beaches look like** for each product type.
+**Reminder:** frame/PS/root cause/claim are backfilled; **analysis still open** and beachhead not locked.
+This file only maps **what the beaches look like** for each product type — use §3 when locking.
