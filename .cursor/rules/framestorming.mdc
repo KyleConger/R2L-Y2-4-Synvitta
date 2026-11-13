@@ -1,0 +1,46 @@
+---
+description: Framestorming method. Read the playbook before problem framing, reframing, issue trees, or disaggregation. Synvitta rooms differ from drinkware — use the case-local room list.
+alwaysApply: true
+---
+
+# Framestorming (framing phase)
+
+**Triggers.** Framestorm · frame or reframe · define the problem · problem statement · alternative
+framings · what is the real problem · issue tree · disaggregate · MECE · prepare.
+
+**When any of those apply, read `In Class Practice/Framestorming-Playbook.md` FIRST**, then apply the
+Synvitta room list below. Label output as a **draft** unless asked for an answer. Do not pick the
+one opportunity/customer or write the 90-day plan in a framing pass.
+
+## Synvitta rooms (relocate the problem here)
+
+Drinkware rooms in the playbook are method examples. For this case, walk:
+
+| Room | The problem sounds like |
+|---|---|
+| The PI's bench | Assay performance / workflow fit; scientists will not switch |
+| The core lab / core facility queue | Centralized purchasing and SOPs block a new RUO SKU |
+| The purchasing / procurement file | Vendor onboarding, insurance, and approved-vendor lists |
+| The distributor's bag | Access is owned by a catalog partner, not by Synvitta direct |
+| The IRB / research-compliance file | RUO boundaries, claim language, and what the lab is allowed to do |
+| The incumbent kit | Switching cost, validation burden, and sunk protocol cost |
+| The grant / budget cycle | Timing and who controls the spend |
+| The founder's own head | A preferred customer or assay is already chosen; analysis is ratification |
+
+## Non-negotiables
+
+- **Interrogate constraints before working.** "No FDA" means stay RUO — do not smuggle a clinical path.
+- **Generate frames by relocating the problem**, not by rewording. Strong frames contradict each other.
+- **Run the failure tests** from the playbook before presenting.
+- **Classify by role only** — root frame, rival mechanism, hard constraint, sub-branch, decision
+  architecture.
+- **Do not grade your own homework.** Force at least one promotion and one demotion.
+- **Sequence by cost of resolution.** Cheap binary gates first (e.g. RUO buyer exists? named account
+  will take a meeting?).
+- **Flag source tier and who paid for the number.**
+
+Default deliverable: table of **framing / underlying assumptions / what it would make us measure**,
+draft-labeled, ending with the **one question** to ask the client next — not a conclusion.
+
+**Handoff.** When the task turns to choosing the opportunity/customer, writing how, or a 90-day plan,
+switch to `.cursor/rules/solving.mdc` and obey `.cursor/rules/synvitta-case.mdc`.

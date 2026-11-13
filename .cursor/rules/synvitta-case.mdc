@@ -1,0 +1,50 @@
+---
+description: Synvitta engagement scope — market entry, RUO thyroid/syphilis, one opportunity + one customer + how + 90-day plan. Bans FDA strategy, financial forecasts, and national market sizing.
+alwaysApply: true
+---
+
+# Synvitta engagement scope
+
+Read `Synvitta-Case-Background.md` and `PrimarySources/CORE-INFORMATION.md` before any substantive
+work. Facts go in PrimarySources; analysis goes in Framing / Research / Deliverables. Do not invent
+company claims — tag unknowns and ask.
+
+## What this engagement is
+
+Market entry for **Synvitta**, limited to **research-use-only (RUO)** assays for **thyroid** and
+**syphilis**. The end deliverable shape (when solving is requested) is:
+
+1. **One opportunity** (named use case / setting)
+2. **One customer** (named account or account archetype with a real named example)
+3. **How they do it** (entry path, buyer, proof, access)
+4. **A 90-day plan** (actions that make that entry real)
+
+Until the user asks to plan, recommend, or solve: **prepare only** — define, disaggregate, gather and
+tag facts. Do not draft the opportunity pick, the customer pick, the how, or the 90-day plan.
+
+## Hard outs — refuse and redirect
+
+Do not produce, even as "context" or appendix:
+
+| Out of scope | Redirect to |
+|---|---|
+| FDA / 510(k) / PMA / CLIA / clinical claims strategy | Stay on RUO label, research buyer, research workflow |
+| Multi-year P&L, revenue forecast, fundraising model | Account-level feasibility only if asked later |
+| National TAM / SAM / SOM or category market sizing | Account fit, buyer access, and proof-of-entry |
+| Broad multi-product portfolio strategy | Thyroid RUO and syphilis RUO only |
+| "Spray and pray" multi-segment GTM | One opportunity, one customer |
+
+If a prompt pulls toward an out, say so in one sentence and continue inside the rails.
+
+## Prepare vs plan
+
+| Phase | Allowed | Not yet |
+|---|---|---|
+| Prepare | Case facts, source map, framestorm drafts, issue tree, research notes, assumption register, customer long-list *as evidence*, interview questions | Choosing the one opportunity/customer, GTM how, 90-day plan, recommendation |
+| Plan / solve | Only after an explicit ask | — |
+
+## Source discipline
+
+- Every material number or claim: **RETRIEVED** or **ESTIMATED**, with source or flag.
+- Prefer buyer / lab / distributor primary evidence over secondary market reports.
+- Charter / drinkware artifacts in this repo are **method practice only**, not case facts.

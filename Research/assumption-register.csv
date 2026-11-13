@@ -1,0 +1,8 @@
+line_id,statement,value,unit,tag,source_or_flag,leverage,notes
+E1,Case is market entry RUO thyroid+syphilis,,,RETRIEVED,Team brief,n/a,engagement
+E2,Deliverable is one opportunity + one customer + how + 90-day plan,,,RETRIEVED,Team brief,n/a,engagement
+E3,Out of scope includes FDA strategy financial forecast national sizing,,,RETRIEVED,Team brief,n/a,engagement
+C1,Synvitta legal identity and offering,,,ESTIMATED,UNKNOWN — need PrimarySources/company,high,fill before plan
+T1,Thyroid RUO SKU and claims,,,ESTIMATED,UNKNOWN — need PrimarySources/assays,high,fill before plan
+S1,Syphilis RUO SKU and claims,,,ESTIMATED,UNKNOWN — need PrimarySources/assays,high,fill before plan
+B1,Primary buyer role for first account type,,,ESTIMATED,UNKNOWN,high,fill in prepare
