@@ -19,6 +19,7 @@
 | Prospects | **Named as interpreted (2026-11-13):** **TF** = Thermo Fisher (**high**); **Agilant** = Agilent (**high**); **Pancher** = ambiguous — keep label; best candidates PerkinElmer/Revvity or Hologic Panther (**low** confidence) — confirm before outreach · **not** existing Synvitta relationships |
 | Positioning | **ESTIMATED messaging thesis (2026-11-13):** Synvitta → premium next-gen tech for hormone testing (align precision/speed; RUO/co-dev only) |
 | 90-day plan | **Plan = drafted (2026-11-13)** — `Deliverables/path-3-route-B-90-day-plan.md` |
+| Presentation | **Notes drafted (2026-11-13)** — `Deliverables/presentation-notes-3-slide-land.md` · **not** slides |
 
 **Team lock (their words):** “We’re going route B” = Idea B (Assay-Developer Eval→SOW); opportunity remains SynArray custom (path 3).  
 **Prior opportunity lock:** “Synvitta is advancing diagnostic precision and speed so yes.”  
@@ -26,7 +27,7 @@
 
 **Hard outs still hold:** no FDA filing strategy · no financial forecast · no national TAM · no clinical marketing without authorization · not “spray every disease.”
 
-**Immediate next (decision-routing):** skeptical-client challenge + last-mile exhibits · build 3–5 slides from the drafted plan. Analysis rows still open — do not treat precision/speed as confirmed. Confirm **Pancher** org before Prompt 5 outreach.
+**Immediate next (decision-routing):** turn notes into 3 slides · skeptical-client challenge + last-mile exhibits. Analysis rows still open — do not treat precision/speed as confirmed. Confirm **Pancher** org before Prompt 5 outreach.
 
 | If you just locked… | Point next to… |
 |---|---|

@@ -18,6 +18,7 @@
 | Positioning | **ESTIMATED (2026-11-13):** Synvitta → premium next-gen tech for hormone testing — RUO/co-dev only; proof ask in eval; no unsupported H2H cost/accuracy |
 | Customer / partner / prospects | **Type locked:** diagnostic developers · **Prospects named as interpreted (2026-11-13):** TF → **Thermo Fisher** (high) · Agilant → **Agilent** (high) · Pancher → **ambiguous** (keep label; candidates PerkinElmer/Revvity or Hologic Panther — low confidence) · outreach targets only — **no** invented Synvitta relationships |
 | 90-day plan | **Plan = drafted (2026-11-13)** — `Deliverables/path-3-route-B-90-day-plan.md` (3 actions · conversations · scoped eval · conversion kill · 2 metrics · 1 risk) |
+| Presentation notes | **Drafted (2026-11-13)** — `Deliverables/presentation-notes-3-slide-land.md` (not slides) · NIH proxy = SBIR 1R43HD116666-01A1 / PA-24-245 Burst Diagnostics (**RETRIEVED**) |
 | Long-list | Scaffold now has three interpreted names — confirm Pancher before live outreach rows |
 | Assumption register | Engagement facts + unknowns — update as analysis runs |
 
@@ -25,6 +26,6 @@
 
 **Hard outs:** no FDA filing strategy · no forecast · no national sizing.
 
-**Immediate next:** skeptical-client challenge + last-mile exhibits · 3–5 slides from drafted plan. Confirm **Pancher** expansion with team. Analysis rows B1–B4 remain open — do not treat precision/speed as confirmed.
+**Immediate next:** build 3 slides from `presentation-notes-3-slide-land.md` · skeptical-client challenge. Confirm **Pancher** expansion with team. Analysis rows B1–B4 remain open — do not treat precision/speed as confirmed.
 
 When rows complete: update confirms/kills on the claim; follow `.cursor/rules/analysis-test.mdc` and `.cursor/rules/decision-routing.mdc`.
